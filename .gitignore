@@ -17,16 +17,7 @@
 *.html
 *.pdf
 digital_image/
-valencia/
 *.jp2
-geopandas-tutorial/
-GLAM-Workbench/
-graph_aws/
-graph_notebook/
-ivpy/
-ivpy_bk/
 *.yml
 *.sh
 *.yaml
-KG/kglab/
-VC-Anna/
